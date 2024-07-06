@@ -1,0 +1,119 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\succe\source\repos\RailwayReservationSystem\Properties\PublishProfiles\FolderProfile1.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="addadministrator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AddStation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Addtraintrips.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminMessages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="adminsettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AlfredMichaelControls\AlfredButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="AlfredMichaelControls\AlfredTextBox.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Update="AlfredMichaelControls\AlfredToggleButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Update="Booking.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="BookTrips.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="deleteadministrator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="deletemessages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="deletemytrips.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="deletepassenger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="loginAdministrator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="loginpassenger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MyTrips.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="notify.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="passengermessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="PassengersDashboard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="passengerssettings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="registerpassenger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="replyPassenger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="searchstation.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Station.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="stationinfo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ticket.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ticket2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="trainTrips.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="updateadministrator.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="updatepassenger.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="viewBookings.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="viewMessages.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="viewPassengers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="viewstations.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="viewtrips.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

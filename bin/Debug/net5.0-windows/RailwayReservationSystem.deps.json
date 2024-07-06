@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "RailwayReservationSystem/1.0.0": {
+        "dependencies": {
+          "MySqlConnector": "2.1.5",
+          "Tulpep.NotificationWindow": "1.1.38"
+        },
+        "runtime": {
+          "RailwayReservationSystem.dll": {}
+        }
+      },
+      "MySqlConnector/2.1.5": {
+        "runtime": {
+          "lib/net5.0/MySqlConnector.dll": {
+            "assemblyVersion": "2.0.0.0",
+            "fileVersion": "2.1.5.0"
+          }
+        }
+      },
+      "Tulpep.NotificationWindow/1.1.38": {
+        "runtime": {
+          "lib/net40/Tulpep.NotificationWindow.dll": {
+            "assemblyVersion": "1.1.38.0",
+            "fileVersion": "1.1.38.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "RailwayReservationSystem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "MySqlConnector/2.1.5": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-7mRUqgHLxp0KsG30L4jGOShZVWQKCNuNm083hjk+2v0dLGmZKa3RSg6TWXUgtoDfUUNlQNTocfzlbM1srq0HLQ==",
+      "path": "mysqlconnector/2.1.5",
+      "hashPath": "mysqlconnector.2.1.5.nupkg.sha512"
+    },
+    "Tulpep.NotificationWindow/1.1.38": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cotu1DDvSiSqvkGIY0SOh1QN5NgXTiWJEspZCx34My+p0q9ONvtPYUZELyN+Fpo0U/KyAG5B0wEiiFdaMCesag==",
+      "path": "tulpep.notificationwindow/1.1.38",
+      "hashPath": "tulpep.notificationwindow.1.1.38.nupkg.sha512"
+    }
+  }
+}

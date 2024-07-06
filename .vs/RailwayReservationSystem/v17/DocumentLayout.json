@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\succe\\source\\repos\\RailwayReservationSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AED97CAD-6566-4CDE-8859-BCD9251C3ED3}|RailwayReservationSystem.csproj|c:\\users\\succe\\source\\repos\\railwayreservationsystem\\db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AED97CAD-6566-4CDE-8859-BCD9251C3ED3}|RailwayReservationSystem.csproj|solutionrelative:db.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\succe\\source\\repos\\RailwayReservationSystem\\obj\\Debug\\net5.0-windows\\RailwayReservationSystem.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net5.0-windows\\RailwayReservationSystem.AssemblyInfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\succe\\source\\repos\\RailwayReservationSystem\\obj\\Debug\\net5.0-windows\\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:obj\\Debug\\net5.0-windows\\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Db.cs",
+              "DocumentMoniker": "C:\\Users\\succe\\source\\repos\\RailwayReservationSystem\\Db.cs",
+              "RelativeDocumentMoniker": "Db.cs",
+              "ToolTip": "C:\\Users\\succe\\source\\repos\\RailwayReservationSystem\\Db.cs",
+              "RelativeToolTip": "Db.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAACEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T08:58:11.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": ".NETCoreApp,Version=v5.0.AssemblyAttributes.cs",
+              "DocumentMoniker": "C:\\Users\\succe\\source\\repos\\RailwayReservationSystem\\obj\\Debug\\net5.0-windows\\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net5.0-windows\\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs",
+              "ToolTip": "C:\\Users\\succe\\source\\repos\\RailwayReservationSystem\\obj\\Debug\\net5.0-windows\\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs",
+              "RelativeToolTip": "obj\\Debug\\net5.0-windows\\.NETCoreApp,Version=v5.0.AssemblyAttributes.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T08:51:47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RailwayReservationSystem.AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Users\\succe\\source\\repos\\RailwayReservationSystem\\obj\\Debug\\net5.0-windows\\RailwayReservationSystem.AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "obj\\Debug\\net5.0-windows\\RailwayReservationSystem.AssemblyInfo.cs",
+              "ToolTip": "C:\\Users\\succe\\source\\repos\\RailwayReservationSystem\\obj\\Debug\\net5.0-windows\\RailwayReservationSystem.AssemblyInfo.cs",
+              "RelativeToolTip": "obj\\Debug\\net5.0-windows\\RailwayReservationSystem.AssemblyInfo.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAjwBEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-06T08:51:43.124Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

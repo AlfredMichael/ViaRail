@@ -1,0 +1,7 @@
+C:\Users\Alfredo Michael\Desktop\RailwayReservationSystem\RailwayReservationSystem.exe
+C:\Users\Alfredo Michael\Desktop\RailwayReservationSystem\RailwayReservationSystem.dll
+C:\Users\Alfredo Michael\Desktop\RailwayReservationSystem\RailwayReservationSystem.deps.json
+C:\Users\Alfredo Michael\Desktop\RailwayReservationSystem\RailwayReservationSystem.runtimeconfig.json
+C:\Users\Alfredo Michael\Desktop\RailwayReservationSystem\RailwayReservationSystem.pdb
+C:\Users\Alfredo Michael\Desktop\RailwayReservationSystem\MySqlConnector.dll
+C:\Users\Alfredo Michael\Desktop\RailwayReservationSystem\Tulpep.NotificationWindow.dll
